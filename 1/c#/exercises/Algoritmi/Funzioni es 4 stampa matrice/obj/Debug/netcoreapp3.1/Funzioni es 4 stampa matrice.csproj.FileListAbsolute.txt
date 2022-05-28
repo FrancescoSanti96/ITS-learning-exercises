@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.exe
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\bin\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 4 stampa matrice\obj\Debug\netcoreapp3.1\Funzioni es 4 stampa matrice.genruntimeconfig.cache

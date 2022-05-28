@@ -1,0 +1,5 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Algoritmi2\obj\Debug\net5.0\Algoritmi2-Cane.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Algoritmi2\obj\Debug\net5.0\Algoritmi2-Cane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Algoritmi2\obj\Debug\net5.0\Algoritmi2-Cane.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Algoritmi2\obj\Debug\net5.0\Algoritmi2-Cane.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Algoritmi2\obj\Debug\net5.0\Algoritmi2-Cane.csproj.CoreCompileInputs.cache

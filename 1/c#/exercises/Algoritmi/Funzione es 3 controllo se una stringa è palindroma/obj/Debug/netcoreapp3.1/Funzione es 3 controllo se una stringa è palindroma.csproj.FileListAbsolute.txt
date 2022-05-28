@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.exe
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.dll
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\bin\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.dll
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzione es 3 controllo se una stringa è palindroma\obj\Debug\netcoreapp3.1\Funzione es 3 controllo se una stringa è palindroma.genruntimeconfig.cache

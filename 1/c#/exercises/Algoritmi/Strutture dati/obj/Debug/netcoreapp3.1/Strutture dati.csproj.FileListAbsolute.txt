@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.exe
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.deps.json
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.dll
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\bin\Debug\netcoreapp3.1\Strutture dati.pdb
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.dll
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.pdb
+C:\Users\franc\Desktop\Algoritmi\Strutture dati\obj\Debug\netcoreapp3.1\Strutture dati.genruntimeconfig.cache

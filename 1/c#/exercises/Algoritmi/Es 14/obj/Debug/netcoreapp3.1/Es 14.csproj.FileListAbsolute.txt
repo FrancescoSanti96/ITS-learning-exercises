@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.exe
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.dll
+C:\Users\franc\Desktop\Algoritmi\Es 14\bin\Debug\netcoreapp3.1\Es 14.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.dll
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 14\obj\Debug\netcoreapp3.1\Es 14.genruntimeconfig.cache

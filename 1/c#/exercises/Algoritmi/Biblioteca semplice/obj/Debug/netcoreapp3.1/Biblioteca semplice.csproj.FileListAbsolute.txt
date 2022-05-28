@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.exe
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.deps.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\bin\Debug\netcoreapp3.1\Biblioteca semplice.pdb
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.pdb
+C:\Users\franc\Desktop\Algoritmi\Biblioteca semplice\obj\Debug\netcoreapp3.1\Biblioteca semplice.genruntimeconfig.cache

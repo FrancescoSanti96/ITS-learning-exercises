@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.exe
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.dll
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\Es media.pdb
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.dll
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.pdb
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\Es media.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.exe
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.dll
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\bin\Debug\netcoreapp3.1\Es 16 anche negativi.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.dll
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 16 v2\obj\Debug\netcoreapp3.1\Es 16 anche negativi.genruntimeconfig.cache

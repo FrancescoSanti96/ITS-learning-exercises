@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.exe
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.dll
+C:\Users\franc\Desktop\Algoritmi\Es media\bin\Debug\netcoreapp3.1\1 Es 1 media.pdb
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.dll
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.pdb
+C:\Users\franc\Desktop\Algoritmi\Es media\obj\Debug\netcoreapp3.1\1 Es 1 media.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.exe
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.deps.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.runtimeconfig.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.runtimeconfig.dev.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\bin\Debug\netcoreapp3.1\Geometria2.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria2\obj\Debug\netcoreapp3.1\Geometria2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.exe
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.deps.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.runtimeconfig.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.runtimeconfig.dev.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\bin\Debug\netcoreapp3.1\myTimer.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\myTimer\obj\Debug\netcoreapp3.1\myTimer.genruntimeconfig.cache

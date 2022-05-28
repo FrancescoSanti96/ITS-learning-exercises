@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.exe
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\bin\Debug\netcoreapp3.1\Funzioni es 1.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 1\obj\Debug\netcoreapp3.1\Funzioni es 1.genruntimeconfig.cache

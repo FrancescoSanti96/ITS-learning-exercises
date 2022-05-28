@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.exe
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.deps.json
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.dll
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\bin\Debug\netcoreapp3.1\Prova pratica 2.pdb
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.dll
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.pdb
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.genruntimeconfig.cache
+C:\Users\franc\Desktop\Algoritmi\Prova pratica 2\obj\Debug\netcoreapp3.1\Prova pratica 2.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.exe
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.deps.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5.genruntimeconfig.cache

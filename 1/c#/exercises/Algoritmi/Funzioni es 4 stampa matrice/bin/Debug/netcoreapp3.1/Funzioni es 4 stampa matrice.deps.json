@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funzioni es 4 stampa matrice/1.0.0": {
+        "runtime": {
+          "Funzioni es 4 stampa matrice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funzioni es 4 stampa matrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

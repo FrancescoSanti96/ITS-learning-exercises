@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.exe
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.dll
+C:\Users\franc\Desktop\Algoritmi\Es 8\bin\Debug\netcoreapp3.1\Es 8.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.dll
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 8\obj\Debug\netcoreapp3.1\Es 8.genruntimeconfig.cache

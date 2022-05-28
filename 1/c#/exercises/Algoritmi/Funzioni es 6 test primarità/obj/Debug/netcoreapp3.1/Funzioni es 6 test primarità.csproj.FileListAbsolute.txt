@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.exe
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\bin\Debug\netcoreapp3.1\Funzioni es 6 test primarità.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 6 test primarità\obj\Debug\netcoreapp3.1\Funzioni es 6 test primarità.genruntimeconfig.cache

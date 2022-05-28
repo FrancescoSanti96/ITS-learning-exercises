@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funzione es 2 are trapezio/1.0.0": {
+        "runtime": {
+          "Funzione es 2 are trapezio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funzione es 2 are trapezio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

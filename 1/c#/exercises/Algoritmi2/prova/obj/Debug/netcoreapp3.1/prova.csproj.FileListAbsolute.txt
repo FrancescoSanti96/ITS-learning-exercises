@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.exe
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.deps.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.runtimeconfig.dev.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\bin\Debug\netcoreapp3.1\prova.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\prova\obj\Debug\netcoreapp3.1\prova.genruntimeconfig.cache

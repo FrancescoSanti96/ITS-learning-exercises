@@ -1,0 +1,27 @@
+﻿Esame FITSTIC modulo C# e OOP.
+
+PREPARAZIONE:
+Abilitare la visuale dei test: menu Test -> Esplora test.
+Per eseguire i test: menu Test -> Esegui tutti i test.
+Se il test è di colore verde si considera passato, se di colore rosso significa che è fallito.
+
+PUNTEGGI:
+Il punteggio massimo è 100.
+La sufficienza si raggiunge con 60.
+
+SCOPO:
+Lo scopo è avere tutti i test verdi.
+
+INDICAZIONI INIZIALI:
+Esempio di scacchiera: https://upload.wikimedia.org/wikipedia/commons/2/2c/AAA_SVG_Chessboard_and_chess_pieces_02.svg
+Se non si conoscono le regole del gioco degli scacchi andarle a studiare: https://it.wikipedia.org/wiki/Scacchi#Movimento_dei_pezzi
+Leggere il codice delle classi Pezzo, Pedone e Cella e capirne il funzionamento.
+Leggere il codice dei metodi di test "TestMossaValida" e "TestAperturaPedone" e capire le modalità di test che si effettuano.
+
+SITUAZIONE INIZIALE DEL PROGETTO:
+In partenza il progetto contiene degli errori: non tutti i test sono verdi.
+
+1 - Capire il codice già presente nel progetto e modificare la classe Pedone in modo da permettere il successo di tutti i test. (40 punti)
+2 - Aggiungere alcuni [TestCase] per il pedone ai test di nome "TestMossaValida" e "TestAperturaPedone". (20 punti)
+3 - Implementare a piacere i pezzi rimanenti (Cavallo, Torre, Alfiere, Regina, Re). (8 punti a pezzo)
+	Ogni volta che si implementa un pezzo si deve aggiungere anche qualche [TestCase] a "TestMossaValida" per testarne l'implementazione fatta.

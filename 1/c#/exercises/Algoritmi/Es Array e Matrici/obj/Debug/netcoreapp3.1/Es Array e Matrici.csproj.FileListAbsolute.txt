@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.exe
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.dll
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\bin\Debug\netcoreapp3.1\Es Array e Matrici.pdb
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.dll
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.pdb
+C:\Users\franc\Desktop\Algoritmi\Es Array e Matrici\obj\Debug\netcoreapp3.1\Es Array e Matrici.genruntimeconfig.cache

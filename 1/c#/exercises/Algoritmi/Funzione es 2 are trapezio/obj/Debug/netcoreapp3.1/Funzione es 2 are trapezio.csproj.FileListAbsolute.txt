@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.exe
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.dll
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\bin\Debug\netcoreapp3.1\Funzione es 2 are trapezio.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.dll
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzione es 2 are trapezio\obj\Debug\netcoreapp3.1\Funzione es 2 are trapezio.genruntimeconfig.cache

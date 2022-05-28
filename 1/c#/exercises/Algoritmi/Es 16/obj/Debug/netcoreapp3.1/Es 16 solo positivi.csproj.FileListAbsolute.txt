@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.exe
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.deps.json
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.dll
+C:\Users\franc\Desktop\Algoritmi\Es 16\bin\Debug\netcoreapp3.1\Es 16 solo positivi.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.dll
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.pdb
+C:\Users\franc\Desktop\Algoritmi\Es 16\obj\Debug\netcoreapp3.1\Es 16 solo positivi.genruntimeconfig.cache

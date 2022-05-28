@@ -1,0 +1,4 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Biblioteca_2.0\obj\Debug\netcoreapp3.1\Biblioteca_2.0.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Biblioteca_2.0\obj\Debug\netcoreapp3.1\Biblioteca_2.0.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Biblioteca_2.0\obj\Debug\netcoreapp3.1\Biblioteca_2.0.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Biblioteca_2.0\obj\Debug\netcoreapp3.1\Biblioteca_2.0.csproj.CoreCompileInputs.cache

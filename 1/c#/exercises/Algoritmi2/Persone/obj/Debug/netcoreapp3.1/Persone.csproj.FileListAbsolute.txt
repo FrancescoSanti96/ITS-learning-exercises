@@ -1,0 +1,13 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.exe
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.deps.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.runtimeconfig.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.runtimeconfig.dev.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\bin\Debug\netcoreapp3.1\Persone.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Persone\obj\Debug\netcoreapp3.1\Persone.genruntimeconfig.cache

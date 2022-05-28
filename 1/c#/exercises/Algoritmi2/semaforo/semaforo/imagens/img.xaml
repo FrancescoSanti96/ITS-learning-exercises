@@ -1,0 +1,7 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:semaforo.imagens">
+    <BitmapImage x:Key="semaforoVerde" UriSource="green.png" />
+    <BitmapImage x:Key="semaforoAmarelo" UriSource="yellow.png" />
+    <BitmapImage x:Key="semaforoVermelho" UriSource="red.png" />
+</ResourceDictionary>

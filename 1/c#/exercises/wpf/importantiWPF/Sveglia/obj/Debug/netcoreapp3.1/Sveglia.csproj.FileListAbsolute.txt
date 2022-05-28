@@ -1,0 +1,5 @@
+C:\Users\franc\Desktop\C#Progetti\importantiWPF\Sveglia\obj\Debug\netcoreapp3.1\Sveglia.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\C#Progetti\importantiWPF\Sveglia\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\franc\Desktop\C#Progetti\importantiWPF\Sveglia\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\franc\Desktop\C#Progetti\importantiWPF\Sveglia\obj\Debug\netcoreapp3.1\Sveglia_MarkupCompile.cache
+C:\Users\franc\Desktop\C#Progetti\importantiWPF\Sveglia\obj\Debug\netcoreapp3.1\Sveglia_MarkupCompile.lref

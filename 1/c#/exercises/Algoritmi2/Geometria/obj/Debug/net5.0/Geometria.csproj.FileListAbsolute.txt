@@ -1,0 +1,16 @@
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.exe
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.deps.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.runtimeconfig.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.runtimeconfig.dev.json
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\ref\Geometria.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\bin\Debug\net5.0\Geometria.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\ref\Geometria.dll
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.pdb
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.genruntimeconfig.cache
+C:\Users\franc\Desktop\C#Progetti\Algoritmi2\Geometria\obj\Debug\net5.0\Geometria.csprojAssemblyReference.cache

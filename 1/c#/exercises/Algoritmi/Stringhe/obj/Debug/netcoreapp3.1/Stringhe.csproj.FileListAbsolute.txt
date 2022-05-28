@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.exe
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.deps.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe\bin\Debug\netcoreapp3.1\Stringhe.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe\obj\Debug\netcoreapp3.1\Stringhe.genruntimeconfig.cache

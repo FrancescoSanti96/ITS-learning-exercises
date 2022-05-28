@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.exe
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.deps.json
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.dll
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\bin\Debug\netcoreapp3.1\RiempiArray.pdb
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.dll
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.pdb
+C:\Users\franc\Desktop\Algoritmi\RiempiArray\obj\Debug\netcoreapp3.1\RiempiArray.genruntimeconfig.cache

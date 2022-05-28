@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funzioni es 1 stampa array/1.0.0": {
+        "runtime": {
+          "Funzioni es 1 stampa array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funzioni es 1 stampa array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

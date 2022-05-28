@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.exe
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.deps.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\bin\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.dll
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.pdb
+C:\Users\franc\Desktop\Algoritmi\Funzioni es 5 calcolo elevamento a potenza\obj\Debug\netcoreapp3.1\Funzioni es 5 calcolo elevamento a potenza.genruntimeconfig.cache

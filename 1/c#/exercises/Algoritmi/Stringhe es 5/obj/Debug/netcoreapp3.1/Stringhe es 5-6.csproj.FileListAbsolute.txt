@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.exe
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.deps.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\bin\Debug\netcoreapp3.1\Stringhe es 5-6.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.dll
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.pdb
+C:\Users\franc\Desktop\Algoritmi\Stringhe es 5\obj\Debug\netcoreapp3.1\Stringhe es 5-6.genruntimeconfig.cache

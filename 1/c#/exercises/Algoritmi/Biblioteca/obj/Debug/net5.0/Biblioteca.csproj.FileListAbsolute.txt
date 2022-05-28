@@ -1,0 +1,16 @@
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.exe
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\franc\Desktop\Algoritmi\Biblioteca\obj\Debug\net5.0\Biblioteca.genruntimeconfig.cache

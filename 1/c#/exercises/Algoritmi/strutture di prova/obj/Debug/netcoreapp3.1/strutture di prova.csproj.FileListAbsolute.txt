@@ -1,0 +1,12 @@
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.AssemblyInfo.cs
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.exe
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.deps.json
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.runtimeconfig.json
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.dll
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\bin\Debug\netcoreapp3.1\strutture di prova.pdb
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.dll
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.pdb
+C:\Users\franc\Desktop\Algoritmi\strutture di prova\obj\Debug\netcoreapp3.1\strutture di prova.genruntimeconfig.cache
