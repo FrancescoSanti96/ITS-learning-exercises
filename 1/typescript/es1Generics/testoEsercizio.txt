@@ -1,0 +1,2 @@
+Scrivere un metodo che accetta un array A generico e una mappa M generica, 
+e restituisce un nuovo array generico che contiene gli elementi di A che compaiono come chiavi in M.

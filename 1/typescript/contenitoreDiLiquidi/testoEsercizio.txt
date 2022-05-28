@@ -1,0 +1,16 @@
+Si vogliono mantenere le informazioni su un deposito di contenitori di liquidi.
+
+Ogni contenitore è dotato di un codice univoco; i contenitori possono essere di due tipi: lattine e bidoni.
+
+Entrambe queste categorie sono dotate di un campo per identificare il liquido contenuto e di un campo 
+per dichiararela quantità contenuta.
+
+E' richiesta la presenza di una interfaccia ICompare che contenga un metodo confronta()
+in grado di effettuare un confronto di peso fra due contenitori omologhi 
+----considerando che i bidoni hanno sempre una quantità di liquido stoccato maggiore delle lattine.
+
+Realizzare poi una classe contenente un metodo filtra() che riceve in ingresso un vettore 
+di contenitori ed un contenitore campione.
+
+Il metodo filtra() deve restituire il vettore ripulito di tutti i contenitori che contengono 
+lo stesso liquido del contenitore campione passato come parametro

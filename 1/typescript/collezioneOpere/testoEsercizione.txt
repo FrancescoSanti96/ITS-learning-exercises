@@ -1,0 +1,13 @@
+Realizza una opportuna gerarchia di classi per modellare una collezione identificata da 
+un nome, da un luogo, da un insieme di opere d'arte e dalle informazioni relative al loro ingombro.
+Radice della gerarchia è la classe astratta opera d'arte contenente :
+— i campi protetti titolo e artista
+— il costruttore
+— il metodo public abstract double ingombro() che restituisce l'ingombro dell'opera
+— il metodo public boolean equals(Object o) che verifica se due opere d'arte sono uguali
+ed altri metodi di interesse.
+La sottoclasse quadro ha due variabili aggiuntive:altezza e larghezza che identificano la misura del quadro.
+La sottoclasse scultura ha 3 variabili aggiuntive altezza larghezza e profondità che identificano le misure della scultura.
+Implementare le due classi concretizzando il metodo ingombro().
+Realizzare poi, una classe collezione identificata da un nome e da un insieme di opere d'arte e scrivere metodi che 
+siano in grado di: inserire l'opera d'arte, stampare la collezione , stampare l'occupazione di una data opera

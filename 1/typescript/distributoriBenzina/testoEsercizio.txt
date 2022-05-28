@@ -1,0 +1,26 @@
+v 0)Realizzare uno script che sia in grado di istanziare distributori di benzina di
+cui si conoscano città, proprietario, marca e capacità del serbatoio di carburante.
+Per il distributore, deve essere possibile:
+V1) Simulare le operazioni di erogazione del carburante e dei corrispondenti incassi per
+ognuna delle pompe presenti.
+V 2) Simulare le operazioni di carico del carburante nel serbatoio tramite un metodo
+Approvvigionamento
+V 3) Stampare la giacenza di caraburante presente nel serbatoio
+
+V 4)Implementare infine una interfaccia ICompara in modo da consentire il confronto tra due distributori 
+in base alla capacità del serbatoio di carburante.
+
+
+Come ho pensato il progetto:
+Ho strutturato il codice in modo che nell'index.ts sia possibile generare i vari distibutori e le varie 
+pompe, ho utilizzato due classi e istazio un nuovo oggetto per ogni pompa cosi da averne una gestione veloce, 
+qualora sia da rimuovere o aggiungerrne delle altre.
+
+In generale puoi ricavare le informazioni più imporatnati del distributore e se occorrono informazioni più particolari
+allora le ricavi dalla pompa.
+
+
+Dubbi: 
+-Ho un pò di dubbi sull'utilizzo dell'iterfaccia, qual'è il vantaggio nell'usarla? e non sono sicuro
+se è implementata correttamente.
+
