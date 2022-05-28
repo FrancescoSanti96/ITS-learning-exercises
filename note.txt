@@ -1,0 +1,3 @@
+Materiale sviluppato per studiare ed implementare codice durante il percorso di formazione di 2 anni presso
+l'ITS fitstic con indirizzo di Tecnico superiore per lo sviluppo web e cloud.
+
